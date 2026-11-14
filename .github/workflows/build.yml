@@ -34,7 +34,7 @@ jobs:
           libavformat-dev \
           libavcodec-dev \
           zlib1g-dev \
-          libncurses5:i386 \
+          libncurses6:i386 \
           libstdc++6:i386 \
           libz1:i386 \
           openjdk-17-jdk
