@@ -495,3 +495,11 @@ warn_on_root = 1
 #        buildozer --profile demo android debug
 #
 #   Environment variable overrides have priority over profile overrides.
+# (int) Android API to use
+android.api = 33
+
+# (int) Minimum API your APK will support
+android.min_api = 21
+
+# Добавь эту строчку для автоматического принятия лицензий SDK:
+android.accept_sdk_license = True
